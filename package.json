@@ -1,6 +1,6 @@
 {
   "name": "git-recover",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Recover git staged (git add .) files if you have accidentally lost",
   "bin": {
     "git-recover": "./build/index.js"
