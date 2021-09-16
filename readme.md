@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img height="450" src="/assets/example.gif">
+  <img src="/assets/example.gif">
 </p>
 
 ### Why we need this
@@ -22,7 +22,7 @@ but mistakenly, we revert changes by `git reset --hard` etc then we need this **
 ## Usage
 
 ```sh
-npx git-recovery
+npx git-recover
 ```
 
 then promp will appear where we have to give the path of recovery directory where lost files will recover
